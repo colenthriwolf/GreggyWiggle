@@ -1,0 +1,11 @@
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\bin\Debug\Gregg Wiggle.exe.config
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\bin\Debug\Gregg Wiggle.exe
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\bin\Debug\Gregg Wiggle.pdb
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\bin\Debug\Gregg Wiggle.xml
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg Wiggle.vbprojResolveAssemblyReference.cache
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg_Wiggle.Form1.resources
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg_Wiggle.Resources.resources
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg Wiggle.vbproj.GenerateResource.Cache
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg Wiggle.exe
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg Wiggle.xml
+C:\Users\xX_Johnny_Xx\documents\visual studio 2017\Projects\Gregg Wiggle\Gregg Wiggle\obj\Debug\Gregg Wiggle.pdb
