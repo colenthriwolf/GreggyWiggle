@@ -22,9 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -36,18 +34,14 @@ Partial Class Form1
         Me.PictureBox1.Image = Global.Gregg_Wiggle.My.Resources.Resources.Gregg_wiggle
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(257, 223)
+        Me.PictureBox1.Size = New System.Drawing.Size(257, 238)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
-        'Timer1
-        '
-        Me.Timer1.Interval = 1000
-        '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(232, 193)
+        Me.Button1.Location = New System.Drawing.Point(219, 205)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(25, 23)
         Me.Button1.TabIndex = 1
@@ -57,10 +51,11 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(255, 215)
+        Me.ClientSize = New System.Drawing.Size(256, 262)
         Me.ControlBox = False
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.PictureBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Name = "Form1"
         Me.ShowInTaskbar = False
         Me.Text = "gregg rulz ok"
@@ -70,6 +65,5 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents Timer1 As Timer
     Friend WithEvents Button1 As Button
 End Class
