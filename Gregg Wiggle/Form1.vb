@@ -1,6 +1,8 @@
 ﻿Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Gregg wiggle
+        '     -Johnny "colenthriwolf" Stene
         Me.TopMost = True
         Me.SetStyle(ControlStyles.SupportsTransparentBackColor, True)
         Me.BackColor = Color.Transparent

@@ -1,4 +1,4 @@
 # GreggyWiggle
-# By Dogesoft
+# By Colenthriwolf
 # See License.txt
 # Exe in /Gregg Wiggle/obj/debug
